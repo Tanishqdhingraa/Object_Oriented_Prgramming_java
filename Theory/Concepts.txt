@@ -1,0 +1,49 @@
+Core OOP Concepts (must-know)
+
+Class & Object✅
+Encapsulation✅
+Abstraction
+Inheritance
+Polymorphism
+Class Design & Keywords
+Access Modifiers (public, private, protected, default)
+Constructors (default, parameterized, copy)
+this keyword
+static keyword
+final keyword
+Inheritance & Polymorphism Deep Dive
+Method Overloading
+Method Overriding
+Runtime vs Compile-time Polymorphism
+super keyword
+Upcasting & Downcasting
+Abstraction Layer
+Abstract Classes
+Interfaces
+Difference: Abstract Class vs Interface
+Object Class & Memory
+Object class methods (toString, equals, hashCode)
+== vs .equals()
+Shallow Copy vs Deep Copy
+Heap vs Stack memory
+Relationships
+IS-A relationship
+HAS-A relationship
+Association
+Aggregation
+Composition
+Exception Handling (OOP-related)
+Exception hierarchy
+Checked vs Unchecked Exceptions
+try-catch-finally
+throw vs throws
+Design & Interview Favorites
+SOLID Principles
+Immutable Class
+Singleton Class
+Tight Coupling vs Loose Coupling
+Java-Specific (very common in interviews)
+Method Hiding
+Covariant Return Type
+Can we override static/final/private methods?
+Diamond Problem

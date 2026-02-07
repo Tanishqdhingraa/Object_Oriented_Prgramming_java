@@ -1,0 +1,28 @@
+Oops in java 
+
+Main purpose is to deal with the real world entity 
+using programmming language
+-------------------------------------------------------------
+Oops Features
+
+class 
+Object 
+Inheritance 
+Polymorphism 
+Encapsulation 
+Abstraction 
+-------------------------------------------------------------
+Class 
+
+class is a collection of object and doesnt take any space
+its just blueprint
+
+Pre-defined class 
+User defined class
+
+-------------------------------------------------------------
+Objects are instance of class 
+
+Object takes place like variable 
+
+-------------------------------------------------------------

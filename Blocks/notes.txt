@@ -1,0 +1,35 @@
+What is static block ? 
+-> This Block excutes at the time of loading the .java 
+file into the jvm memory.
+
+->This will execute every single time we run 
+-> Run before Constructors and instance block also.
+-> It only use static variable 
+
+Syntax: 
+class A {
+    static {
+
+    }
+}
+---------------------------------------------------------
+Instance Block
+
+->Block which had no name.
+->It can be written in class.
+->It cannnot written in class.
+->Exceute before Constructors
+-> Method can be used in insatnce blcok 
+-> Use it when time consuming task we want to run 
+
+Syntax: 
+class A {
+    {
+
+    }
+}
+---------------------------------------------------------
+Instance vs static Block
+
+Instance can access both global variable and static variable both.
+

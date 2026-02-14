@@ -1,0 +1,55 @@
+Inheritance 
+->When one class access the features of other class is known 
+as Inheritance
+-> extends keyword used here
+-> It provide code reusability 
+-> We cannot access private members
+-> Always make object of Subclass class 
+
+Syntax:
+class A {
+    
+}
+class B extends A{
+
+}
+A is Superclass
+B is Subclass
+----------------------------------------------------------
+Types of Inheritance
+
+->Simple Inheritance 
+(One Subclass and One Superclass)
+
+->Multi-level Inheritance
+(One Superclass and many Subclass)
+
+->Hirerchal Inheritance
+(One Superclass and many Subclass)
+
+--------------------------------------------------------
+->Simple Inheritance 
+(One Subclass and One Superclass)
+
+Syntax:
+class Superclass {
+    
+}
+class Subclass extends Superclass{
+
+}
+--------------------------------------------------------
+->Multi-level Inheritance
+(One Superclass and many Subclass)
+
+Syntax:
+class Superclass {
+    
+}
+class Subclass2 extends Superclass{
+
+}
+class Subclass3 extends Subclass2{
+
+}
+--------------------------------------------------------

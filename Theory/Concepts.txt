@@ -1,7 +1,7 @@
 Core OOP Concepts (must-know)
 
 Class & Object✅
-Encapsulation✅
+Encapsulation
 Abstraction
 Inheritance
 Polymorphism

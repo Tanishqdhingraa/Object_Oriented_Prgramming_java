@@ -12,7 +12,7 @@ Polymorphism
 Encapsulation 
 Abstraction 
 -------------------------------------------------------------
-Class 
+Class (Logical Identity)
 
 class is a collection of object and doesnt take any space
 its just blueprint
@@ -21,8 +21,9 @@ Pre-defined class
 User defined class
 
 -------------------------------------------------------------
-Objects are instance of class 
+Objects (Memory Identity)
+Objects are instance of class.That executes the class.
+Object takes place like variable.
 
-Object takes place like variable 
 
 -------------------------------------------------------------

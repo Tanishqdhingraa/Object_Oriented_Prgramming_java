@@ -1,0 +1,61 @@
+Constructor 
+A special type of method whose name is same of class.
+
+Why neeed it ? 
+->To intiliaze the object.
+-> Every java have default Constructor
+->Automatically called at the time of object creation 
+->never conatin any return type including void too. 
+--------------------------------------------------------------
+Types of Constructor
+
+-> Private 
+-> default
+-> paramterized 
+->  Copy 
+--------------------------------------------------------------
+Default constructor
+-> Constructor with no paramter.
+
+Sytntax:
+
+class classname{
+    classname(){
+
+    }
+}
+
+--------------------------------------------------------------
+Parameterized Constructor
+-> In which we can pass one or more than paramter.
+
+Sytntax:
+
+class classname{
+    classname(int x, int y){
+
+    }
+}
+--------------------------------------------------------------
+Copy Constructor
+-> Whenever we passed object refrence to Constructor
+
+Sytntax:
+
+class classname{
+    classname(object refrence){
+
+    }
+}
+--------------------------------------------------------------
+Private Constructor
+-> we cannot use it outside the class
+
+Sytntax:
+
+class classname{
+    private classname(object refrence){
+
+    }
+}
+--------------------------------------------------------------

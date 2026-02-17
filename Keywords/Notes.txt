@@ -1,0 +1,34 @@
+Super keyword 
+
+->Refres to the object of super class
+-> Used with when we want to call the object of superclass
+    object from subclass instance 
+->Whenever Method name of subclass and  superclass is same 
+we use it.
+->To avoid The confusion Bw superclass and subclass and methos 
+always use super class 
+
+->We can call variable method and constructor eith help of super keyword.
+
+Syntax:
+
+class A{
+    A(){
+
+    }
+}
+class B  extends A  {
+    B(){
+        // Super()
+    }
+}
+--------------------------------------------------------------
+This keyword
+
+The this keyword in Java refers to the current object.
+It is mainly used to differentiate instance variables from local variables
+when they have the same name,
+and it can also be used to call another constructor of the same class.
+
+this also used to call the default constructor too 
+--------------------------------------------------------------

@@ -1,0 +1,20 @@
+🔹 What is Polymorphism in Java?
+
+Polymorphism means “many forms.”
+In Java, it allows a single method or object to behave differently in 
+different situations.
+--------------------------------------------------------------
+🔹 Types of Polymorphism:
+
+1. Compile-time Polymorphism (Method Overloading)
+   ➝ Same method name, different parameters.
+
+2. Runtime Polymorphism (Method Overriding)
+   ➝ Child class provides its own implementation of a parent class method.
+--------------------------------------------------------------
+🔹 Short Interview Answer:
+
+> Polymorphism is the ability of an object to take many forms.
+ In Java, it is achieved through method overloading (compile-time) 
+ and method overriding (runtime), allowing flexible and reusable code.
+--------------------------------------------------------------

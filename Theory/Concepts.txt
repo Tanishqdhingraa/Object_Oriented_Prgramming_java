@@ -4,7 +4,7 @@ Class & Object✅
 Encapsulation
 Abstraction
 Inheritance✅
-Polymorphism
+Polymorphism✅
 Class Design & Keywords
 Access Modifiers (public, private, protected, default)✅
 Constructors (default, parameterized, copy)✅
@@ -12,8 +12,8 @@ this keyword✅
 static keyword✅
 final keyword✅
 Inheritance & Polymorphism Deep Dive
-Method Overloading
-Method Overriding
+Method Overloading✅
+Method Overriding✅
 Runtime vs Compile-time Polymorphism
 super keyword✅
 Upcasting & Downcasting
@@ -42,8 +42,8 @@ SOLID Principles
 Immutable Class
 Singleton Class
 Tight Coupling vs Loose Coupling
-Java-Specific (very common in interviews)
+Java-Specific (very common in interviews)✅
 Method Hiding
 Covariant Return Type
-Can we override static/final/private methods?
-Diamond Problem
+Can we override static/final/private methods?✅
+Diamond Problem✅

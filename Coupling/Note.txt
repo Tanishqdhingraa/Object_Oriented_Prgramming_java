@@ -1,0 +1,4 @@
+Tight coupling occurs when classes directly depend on concrete implementations,
+making changes difficult. Loose coupling occurs
+when classes depend on abstractions (interfaces), 
+making the system flexible, maintainable, and testable.

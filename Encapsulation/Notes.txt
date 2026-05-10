@@ -1,0 +1,25 @@
+🔹 Encapsulation in Java
+
+Encapsulation means wrapping data (variables) and methods (functions) 
+together into a single unit (class)** and restricting direct access to the data.
+
+It is achieved by:
+ Making variables private
+ Providing public getter and setter methods
+
+---------------------------------------------------------------------------
+
+🔹 Why do we use Encapsulation?
+
+* To protect data from unauthorized access
+* To maintain data security
+* To achieve better control over variables
+
+---------------------------------------------------------------------------
+
+
+🔹 Short Interview Answer:
+
+> Encapsulation is the process of binding data and methods into a 
+single unit (class) and restricting direct access using private variables 
+with public getters and setters. It helps in data hiding and security.

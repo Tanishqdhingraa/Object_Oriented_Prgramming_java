@@ -1,0 +1,42 @@
+Can we override static/final/private methods?
+
+No, static, final, and private methods cannot be overridden in Java. 
+
+->Static methods are class-level (method hiding occurs), 
+->final methods cannot be changed, and 
+->private methods are not accessible to subclasses.
+---------------------------------------------------------------------------
+Java-Specific 
+
+1. What is the difference between == and .equals()?
+    == → compares memory reference
+    .equals() → compares content
+
+2. What is the difference between final, finally, and finalize()?
+    final → keyword (variable, method, class restriction)
+    finally → block in exception handling
+    finalize() → method called by GC (deprecated)
+
+
+3. What is method overloading vs overriding?
+    Overloading → Same method name, different parameters (compile-time)
+    Overriding → Same method signature in child class (runtime)
+
+4. What is the difference between String, StringBuilder, and StringBuffer?
+    String → Immutable
+    StringBuilder → Mutable, not thread-safe
+    StringBuffer → Mutable, thread-safe   
+
+5. Why Java does not support multiple inheritance with classes?
+    To avoid the Diamond Problem.
+
+6. What is the difference between ArrayList and LinkedList?
+    ArrayList → Fast access, slow insertion/deletion
+    LinkedList → Fast insertion/deletion, slow access 
+
+7. What is JVM, JRE, and JDK?
+    JVM → Executes bytecode
+    JRE → JVM + Libraries
+    JDK → JRE + Development tools
+
+---------------------------------------------------------------------------
